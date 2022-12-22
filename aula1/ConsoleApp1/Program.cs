@@ -15,6 +15,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
             long n4 = 2147483648L;
             float n5 = 4.5F;
             double n6 = 4.5;
+            string nome = "Maria";
 
             Console.WriteLine(completo);
             Console.WriteLine(genero);
@@ -25,6 +26,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
             Console.WriteLine(n4);
             Console.WriteLine(n5);
             Console.WriteLine(n6);
+            Console.WriteLine(nome);
         }
     }
 }
