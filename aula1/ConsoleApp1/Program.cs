@@ -6,8 +6,8 @@ namespace MyApp // Note: actual namespace depends on the project name.
     {
         static void Main(string[] args)
         {
-            sbyte x = 100;
-            Console.WriteLine(x);
+            byte n1 = 126;
+            Console.WriteLine(n1);
         }
     }
 }
