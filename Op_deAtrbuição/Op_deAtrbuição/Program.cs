@@ -6,7 +6,8 @@ namespace opAtribuição
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Bom dia");
+            Console.Write("Bom dia!");
+            Console.WriteLine("Boa tarde!");
         }
     }
 }
