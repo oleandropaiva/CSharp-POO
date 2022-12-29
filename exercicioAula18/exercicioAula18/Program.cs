@@ -23,8 +23,17 @@ namespace ExercicioAula18
             Console.WriteLine($"{produto2}, cujo preço é {preco2}");
 
             Console.WriteLine($"Registro: {idade} anos de idade, código {codigo} e gênero: {genero}");
+
+            Console.WriteLine("---------------------------------------------------------------------------------");
+
             Console.WriteLine($" Medida com oito casas decimais:{medida:F8}");
+
+            Console.WriteLine("---------------------------------------------------------------------------------");
+
             Console.WriteLine($" Arredondando três casas decimais: {medida:F3}");
+
+            Console.WriteLine("---------------------------------------------------------------------------------");
+
             Console.WriteLine("Separador decimal invariant culture: "+  medida.ToString("F2", CultureInfo.InvariantCulture));
         }
     }
