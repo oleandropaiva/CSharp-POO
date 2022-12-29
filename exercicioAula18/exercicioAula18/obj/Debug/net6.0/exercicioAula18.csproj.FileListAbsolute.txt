@@ -1,0 +1,15 @@
+C:\projects\CSharp-POO\exercicioAula18\exercicioAula18\bin\Debug\net6.0\exercicioAula18.exe
+C:\projects\CSharp-POO\exercicioAula18\exercicioAula18\bin\Debug\net6.0\exercicioAula18.deps.json
+C:\projects\CSharp-POO\exercicioAula18\exercicioAula18\bin\Debug\net6.0\exercicioAula18.runtimeconfig.json
+C:\projects\CSharp-POO\exercicioAula18\exercicioAula18\bin\Debug\net6.0\exercicioAula18.dll
+C:\projects\CSharp-POO\exercicioAula18\exercicioAula18\bin\Debug\net6.0\exercicioAula18.pdb
+C:\projects\CSharp-POO\exercicioAula18\exercicioAula18\obj\Debug\net6.0\exercicioAula18.csproj.AssemblyReference.cache
+C:\projects\CSharp-POO\exercicioAula18\exercicioAula18\obj\Debug\net6.0\exercicioAula18.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\CSharp-POO\exercicioAula18\exercicioAula18\obj\Debug\net6.0\exercicioAula18.AssemblyInfoInputs.cache
+C:\projects\CSharp-POO\exercicioAula18\exercicioAula18\obj\Debug\net6.0\exercicioAula18.AssemblyInfo.cs
+C:\projects\CSharp-POO\exercicioAula18\exercicioAula18\obj\Debug\net6.0\exercicioAula18.csproj.CoreCompileInputs.cache
+C:\projects\CSharp-POO\exercicioAula18\exercicioAula18\obj\Debug\net6.0\exercicioAula18.dll
+C:\projects\CSharp-POO\exercicioAula18\exercicioAula18\obj\Debug\net6.0\refint\exercicioAula18.dll
+C:\projects\CSharp-POO\exercicioAula18\exercicioAula18\obj\Debug\net6.0\exercicioAula18.pdb
+C:\projects\CSharp-POO\exercicioAula18\exercicioAula18\obj\Debug\net6.0\exercicioAula18.genruntimeconfig.cache
+C:\projects\CSharp-POO\exercicioAula18\exercicioAula18\obj\Debug\net6.0\ref\exercicioAula18.dll
