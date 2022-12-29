@@ -1,0 +1,15 @@
+C:\projects\CSharp-POO\ConversaoAndCasting\ConversaoAndCasting\bin\Debug\net6.0\ConversaoAndCasting.exe
+C:\projects\CSharp-POO\ConversaoAndCasting\ConversaoAndCasting\bin\Debug\net6.0\ConversaoAndCasting.deps.json
+C:\projects\CSharp-POO\ConversaoAndCasting\ConversaoAndCasting\bin\Debug\net6.0\ConversaoAndCasting.runtimeconfig.json
+C:\projects\CSharp-POO\ConversaoAndCasting\ConversaoAndCasting\bin\Debug\net6.0\ConversaoAndCasting.dll
+C:\projects\CSharp-POO\ConversaoAndCasting\ConversaoAndCasting\bin\Debug\net6.0\ConversaoAndCasting.pdb
+C:\projects\CSharp-POO\ConversaoAndCasting\ConversaoAndCasting\obj\Debug\net6.0\ConversaoAndCasting.csproj.AssemblyReference.cache
+C:\projects\CSharp-POO\ConversaoAndCasting\ConversaoAndCasting\obj\Debug\net6.0\ConversaoAndCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\CSharp-POO\ConversaoAndCasting\ConversaoAndCasting\obj\Debug\net6.0\ConversaoAndCasting.AssemblyInfoInputs.cache
+C:\projects\CSharp-POO\ConversaoAndCasting\ConversaoAndCasting\obj\Debug\net6.0\ConversaoAndCasting.AssemblyInfo.cs
+C:\projects\CSharp-POO\ConversaoAndCasting\ConversaoAndCasting\obj\Debug\net6.0\ConversaoAndCasting.csproj.CoreCompileInputs.cache
+C:\projects\CSharp-POO\ConversaoAndCasting\ConversaoAndCasting\obj\Debug\net6.0\ConversaoAndCasting.dll
+C:\projects\CSharp-POO\ConversaoAndCasting\ConversaoAndCasting\obj\Debug\net6.0\refint\ConversaoAndCasting.dll
+C:\projects\CSharp-POO\ConversaoAndCasting\ConversaoAndCasting\obj\Debug\net6.0\ConversaoAndCasting.pdb
+C:\projects\CSharp-POO\ConversaoAndCasting\ConversaoAndCasting\obj\Debug\net6.0\ConversaoAndCasting.genruntimeconfig.cache
+C:\projects\CSharp-POO\ConversaoAndCasting\ConversaoAndCasting\obj\Debug\net6.0\ref\ConversaoAndCasting.dll

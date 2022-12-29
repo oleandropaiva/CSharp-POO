@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConversaoAndCasting/1.0.0": {
+        "runtime": {
+          "ConversaoAndCasting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConversaoAndCasting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
