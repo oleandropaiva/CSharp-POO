@@ -1,0 +1,15 @@
+C:\projects\CSharp-POO\EntradaDeDados\bin\Debug\net6.0\EntradaDeDados.exe
+C:\projects\CSharp-POO\EntradaDeDados\bin\Debug\net6.0\EntradaDeDados.deps.json
+C:\projects\CSharp-POO\EntradaDeDados\bin\Debug\net6.0\EntradaDeDados.runtimeconfig.json
+C:\projects\CSharp-POO\EntradaDeDados\bin\Debug\net6.0\EntradaDeDados.dll
+C:\projects\CSharp-POO\EntradaDeDados\bin\Debug\net6.0\EntradaDeDados.pdb
+C:\projects\CSharp-POO\EntradaDeDados\obj\Debug\net6.0\EntradaDeDados.csproj.AssemblyReference.cache
+C:\projects\CSharp-POO\EntradaDeDados\obj\Debug\net6.0\EntradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\CSharp-POO\EntradaDeDados\obj\Debug\net6.0\EntradaDeDados.AssemblyInfoInputs.cache
+C:\projects\CSharp-POO\EntradaDeDados\obj\Debug\net6.0\EntradaDeDados.AssemblyInfo.cs
+C:\projects\CSharp-POO\EntradaDeDados\obj\Debug\net6.0\EntradaDeDados.csproj.CoreCompileInputs.cache
+C:\projects\CSharp-POO\EntradaDeDados\obj\Debug\net6.0\EntradaDeDados.dll
+C:\projects\CSharp-POO\EntradaDeDados\obj\Debug\net6.0\refint\EntradaDeDados.dll
+C:\projects\CSharp-POO\EntradaDeDados\obj\Debug\net6.0\EntradaDeDados.pdb
+C:\projects\CSharp-POO\EntradaDeDados\obj\Debug\net6.0\EntradaDeDados.genruntimeconfig.cache
+C:\projects\CSharp-POO\EntradaDeDados\obj\Debug\net6.0\ref\EntradaDeDados.dll
