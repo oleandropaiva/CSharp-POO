@@ -1,4 +1,5 @@
-﻿using System.Globalization;
+﻿using System;
+
 
 namespace EntradaDeDados
 {
@@ -16,6 +17,8 @@ namespace EntradaDeDados
             Console.WriteLine(x);
             Console.WriteLine(y);
             Console.WriteLine(z);
+            Console.WriteLine(Console.ReadLine());
+
         }
     }
 }
