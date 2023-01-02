@@ -1,24 +1,26 @@
 ﻿using System;
-using System.Globalization;
 
 namespace ExerciciosPropostos1
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
-            double R, A, pi = 3.14159;
 
-            R = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            int A, B, C, D, dif;
 
-            A = pi * R * R;
+            A = int.Parse(Console.ReadLine());
+            B = int.Parse(Console.ReadLine());
+            C = int.Parse(Console.ReadLine());
+            D = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("A=" + A.ToString("F4", CultureInfo.InvariantCulture));
+            dif = A * B - C * D;
 
+            Console.WriteLine("DIFERENCA = " + dif);
         }
     }
 }
 
-// Faça um programa para ler o valor do raio de um círculo, e depois mostrar o valor da área deste círculo com quatro casas decimais conforme exemplos.
-// Fórmula da área: area = π.raio2
-//  o valor de π = 3.14159
+// Fazer um programa para ler quatro valores inteiros A, B, C e D.
+// A seguir, calcule e mostre a diferença do produto de A e B pelo produto de C e D segundo a fórmula:
+// DIFERENCA = (A * B - C * D).
