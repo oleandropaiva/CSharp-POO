@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace ExerciciosPropostos1
 {
@@ -7,20 +8,20 @@ namespace ExerciciosPropostos1
         static void Main(string[] args)
         {
 
-            int A, B, C, D, dif;
+            int numero, horas;
+            double valorHora, salario;
 
-            A = int.Parse(Console.ReadLine());
-            B = int.Parse(Console.ReadLine());
-            C = int.Parse(Console.ReadLine());
-            D = int.Parse(Console.ReadLine());
+            numero = int.Parse(Console.ReadLine());
+            horas = int.Parse(Console.ReadLine());
+            valorHora = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            dif = A * B - C * D;
+            salario = valorHora * horas;
 
-            Console.WriteLine("DIFERENCA = " + dif);
+            Console.WriteLine("NUMBER = " + numero);
+            Console.WriteLine("SALARY = U$ " + salario.ToString("F2", CultureInfo.InvariantCulture));
         }
     }
 }
 
-// Fazer um programa para ler quatro valores inteiros A, B, C e D.
-// A seguir, calcule e mostre a diferença do produto de A e B pelo produto de C e D segundo a fórmula:
-// DIFERENCA = (A * B - C * D).
+// Fazer um programa que leia o número de um funcionário, seu número de horas trabalhadas, o valor que recebe por
+// hora e calcula o salário desse funcionário. A seguir, mostre o número e o salário do funcionário, com duas casas decimais
