@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace ExerciciosPropostos1
 {
@@ -6,17 +7,18 @@ namespace ExerciciosPropostos1
     {
         static void Main(string[] args)
         {
+            double R, A, pi = 3.14159;
 
-            int A, B, soma;
+            R = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            A = int.Parse(Console.ReadLine());
-            B = int.Parse(Console.ReadLine());
+            A = pi * R * R;
 
-            soma = A + B;
+            Console.WriteLine("A=" + A.ToString("F4", CultureInfo.InvariantCulture));
 
-            Console.WriteLine("SOMA = " + soma);
         }
     }
 }
 
-// Faça um programa para ler dois valores inteiros, e depois mostrar na tela a soma desses números com uma mensagem explicativa.
+// Faça um programa para ler o valor do raio de um círculo, e depois mostrar o valor da área deste círculo com quatro casas decimais conforme exemplos.
+// Fórmula da área: area = π.raio2
+//  o valor de π = 3.14159
