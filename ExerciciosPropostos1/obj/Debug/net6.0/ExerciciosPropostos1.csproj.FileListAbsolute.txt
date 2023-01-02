@@ -1,0 +1,15 @@
+C:\projects\CSharp-POO\ExerciciosPropostos1\bin\Debug\net6.0\ExerciciosPropostos1.exe
+C:\projects\CSharp-POO\ExerciciosPropostos1\bin\Debug\net6.0\ExerciciosPropostos1.deps.json
+C:\projects\CSharp-POO\ExerciciosPropostos1\bin\Debug\net6.0\ExerciciosPropostos1.runtimeconfig.json
+C:\projects\CSharp-POO\ExerciciosPropostos1\bin\Debug\net6.0\ExerciciosPropostos1.dll
+C:\projects\CSharp-POO\ExerciciosPropostos1\bin\Debug\net6.0\ExerciciosPropostos1.pdb
+C:\projects\CSharp-POO\ExerciciosPropostos1\obj\Debug\net6.0\ExerciciosPropostos1.csproj.AssemblyReference.cache
+C:\projects\CSharp-POO\ExerciciosPropostos1\obj\Debug\net6.0\ExerciciosPropostos1.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\CSharp-POO\ExerciciosPropostos1\obj\Debug\net6.0\ExerciciosPropostos1.AssemblyInfoInputs.cache
+C:\projects\CSharp-POO\ExerciciosPropostos1\obj\Debug\net6.0\ExerciciosPropostos1.AssemblyInfo.cs
+C:\projects\CSharp-POO\ExerciciosPropostos1\obj\Debug\net6.0\ExerciciosPropostos1.csproj.CoreCompileInputs.cache
+C:\projects\CSharp-POO\ExerciciosPropostos1\obj\Debug\net6.0\ExerciciosPropostos1.dll
+C:\projects\CSharp-POO\ExerciciosPropostos1\obj\Debug\net6.0\refint\ExerciciosPropostos1.dll
+C:\projects\CSharp-POO\ExerciciosPropostos1\obj\Debug\net6.0\ExerciciosPropostos1.pdb
+C:\projects\CSharp-POO\ExerciciosPropostos1\obj\Debug\net6.0\ExerciciosPropostos1.genruntimeconfig.cache
+C:\projects\CSharp-POO\ExerciciosPropostos1\obj\Debug\net6.0\ref\ExerciciosPropostos1.dll
