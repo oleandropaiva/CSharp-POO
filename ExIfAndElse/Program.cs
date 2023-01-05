@@ -7,45 +7,45 @@ namespace ExIfAndElse
     {
         static void Main(string[] args)
         {
-            string[] valores = Console.ReadLine().Split(' ');
-            double x = double.Parse(valores[0], CultureInfo.InvariantCulture);
-            double y = double.Parse(valores[1], CultureInfo.InvariantCulture);
+            double salario = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            if (x == 0.0 && y == 0.0)
+            double imposto;
+            if (salario <= 2000.0)
             {
-                Console.WriteLine("Origem");
+                imposto = 0.0;
             }
-            else if (x == 0.0)
+            else if (salario <= 3000.0)
             {
-                Console.WriteLine("Eixo Y");
+                imposto = (salario - 2000.0) * 0.08;
             }
-            else if (y == 0.0)
+            else if (salario <= 4500.0)
             {
-                Console.WriteLine("Eixo X");
-            }
-            else if (x > 0.0 && y > 0.0)
-            {
-                Console.WriteLine("Q1");
-            }
-            else if (x < 0.0 && y > 0.0)
-            {
-                Console.WriteLine("Q2");
-            }
-            else if (x < 0.0 && y < 0.0)
-            {
-                Console.WriteLine("Q3");
+                imposto = (salario - 3000.0) * 0.18 + 1000.0 * 0.08;
             }
             else
             {
-                Console.WriteLine("Q4");
+                imposto = (salario - 4500.0) * 0.28 + 1500.0 * 0.18 + 1000.0 * 0.08;
+            }
+
+            if (imposto == 0.0)
+            {
+                Console.WriteLine("Isento");
+            }
+            else
+            {
+                Console.WriteLine("R$ " + imposto.ToString("F2", CultureInfo.InvariantCulture));
             }
         }
     }
 }
 
-/* Leia 2 valores com uma casa decimal (x e y), que devem representar as coordenadas
-de um ponto em um plano. A seguir, determine qual o quadrante ao qual pertence o
-ponto, ou se está sobre um dos eixos cartesianos ou na origem (x = y = 0).
-Se o ponto estiver na origem, escreva a mensagem “Origem”.
-Se o ponto estiver sobre um dos eixos escreva “Eixo X” ou “Eixo Y”, conforme for a
-situação. */
+
+/* Em um país imaginário denominado Lisarb, todos os habitantes ficam felizes em pagar seus impostos, pois sabem
+que nele não existem políticos corruptos e os recursos arrecadados são utilizados em benefício da população, sem
+qualquer desvio. A moeda deste país é o Rombus, cujo símbolo é o R$.
+Leia um valor com duas casas decimais, equivalente ao salário de uma pessoa de Lisarb. Em seguida, calcule e
+mostre o valor que esta pessoa deve pagar de Imposto de Renda, segundo a tabela abaixo.
+Lembre que, se o salário for R$ 3002.00, a taxa que incide é de 8% apenas sobre R$ 1000.00, pois a faixa de
+salário que fica de R$ 0.00 até R$ 2000.00 é isenta de Imposto de Renda. No exemplo fornecido (abaixo), a taxa é
+de 8% sobre R$ 1000.00 + 18% sobre R$ 2.00, o que resulta em R$ 80.36 no total. O valor deve ser impresso com
+duas casas decimais. */
