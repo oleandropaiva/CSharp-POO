@@ -1,4 +1,6 @@
-﻿namespace ExIfAndElse
+﻿using System.Runtime.Intrinsics.Arm;
+
+namespace ExIfAndElse
 {
     internal class Program
     {
@@ -6,17 +8,16 @@
         {
             int Number = int.Parse(Console.ReadLine());
 
-            if (Number < 0 )
+            if (Number % 2 == 0 )
             {
-                Console.WriteLine("Negativo");
+                Console.WriteLine("Par");
             }
             else
             {
-                Console.WriteLine("Não é negativo");
+                Console.WriteLine("Impar");
             }
         }
     }
 }
 
-// Fazer um programa para ler um número inteiro,
-// e depois dizer se este número é negativo ou não.
+// Fazer um programa para ler um número inteiro e dizer se este número é par ou ímpar.
