@@ -7,21 +7,24 @@ namespace ExIfAndElse
         static void Main(string[] args)
         {
             string[] valores = Console.ReadLine().Split(' ');
-            int A = int.Parse(valores[0]);
-            int B = int.Parse(valores[1]);
+            int horaInicial = int.Parse(valores[0]);
+            int horaFinal = int.Parse(valores[1]);
 
-            if (A % B == 0 || B % A == 0)
+            int duracao;
+                if (horaInicial < horaFinal)
             {
-                Console.WriteLine("Sao Multiplos");
+                duracao = horaFinal - horaInicial;
             }
-            else
+                else
             {
-                Console.WriteLine("Nao sao Multiplos");
+                duracao = 24 - horaInicial + horaFinal;
             }
+
+                Console.WriteLine("O JOGO DUROU " + duracao + " HORA(S)");
         }
     }
 }
 
-// Leia 2 valores inteiros (A e B). Após, o programa deve mostrar uma mensagem "Sao Multiplos" ou "Nao sao Multiplos ",
-// indicando se os valores lidos são múltiplos entre si.
-// Atenção: os números devem poder ser digitados em ordem crescente ou decrescente.
+// Leia a hora inicial e a hora final de um jogo.
+// A seguir calcule a duração do jogo, sabendo que ele pode começar em um dia e terminar em outro,
+// tendo uma duração mínima de 1 hora e máxima de 24 horas.
