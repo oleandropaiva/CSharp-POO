@@ -1,0 +1,15 @@
+C:\projects\CSharp-POO\IfAndElse\bin\Debug\net6.0\IfAndElse.exe
+C:\projects\CSharp-POO\IfAndElse\bin\Debug\net6.0\IfAndElse.deps.json
+C:\projects\CSharp-POO\IfAndElse\bin\Debug\net6.0\IfAndElse.runtimeconfig.json
+C:\projects\CSharp-POO\IfAndElse\bin\Debug\net6.0\IfAndElse.dll
+C:\projects\CSharp-POO\IfAndElse\bin\Debug\net6.0\IfAndElse.pdb
+C:\projects\CSharp-POO\IfAndElse\obj\Debug\net6.0\IfAndElse.csproj.AssemblyReference.cache
+C:\projects\CSharp-POO\IfAndElse\obj\Debug\net6.0\IfAndElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\CSharp-POO\IfAndElse\obj\Debug\net6.0\IfAndElse.AssemblyInfoInputs.cache
+C:\projects\CSharp-POO\IfAndElse\obj\Debug\net6.0\IfAndElse.AssemblyInfo.cs
+C:\projects\CSharp-POO\IfAndElse\obj\Debug\net6.0\IfAndElse.csproj.CoreCompileInputs.cache
+C:\projects\CSharp-POO\IfAndElse\obj\Debug\net6.0\IfAndElse.dll
+C:\projects\CSharp-POO\IfAndElse\obj\Debug\net6.0\refint\IfAndElse.dll
+C:\projects\CSharp-POO\IfAndElse\obj\Debug\net6.0\IfAndElse.pdb
+C:\projects\CSharp-POO\IfAndElse\obj\Debug\net6.0\IfAndElse.genruntimeconfig.cache
+C:\projects\CSharp-POO\IfAndElse\obj\Debug\net6.0\ref\IfAndElse.dll
