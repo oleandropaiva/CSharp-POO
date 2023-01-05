@@ -7,36 +7,32 @@ namespace ExIfAndElse
     {
         static void Main(string[] args)
         {
-            string[] valores = Console.ReadLine().Split(' ');
-            int codigo = int.Parse(valores[0]);
-            int quantidade = int.Parse(valores[1]);
+            double numero = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            double total;
-            if (codigo == 1)
+            if (numero < 0.0 || numero > 100.0)
             {
-                total = quantidade * 4.0;
+                Console.WriteLine("Fora de intervalo");
             }
-            else if (codigo == 2)
+            else if (numero <= 25.0)
             {
-                total = quantidade * 4.5;
+                Console.WriteLine("Intervalo [0,25]");
             }
-            else if (codigo == 3)
+            else if (numero <= 50.0)
             {
-                total = quantidade * 5.0;
+                Console.WriteLine("Intervalo (25,50]");
             }
-            else if (codigo == 4)
+            else if (numero <= 75.0)
             {
-                total = quantidade * 2.0;
+                Console.WriteLine("Intervalo (50,75]");
             }
             else
             {
-                total = quantidade * 1.5;
+                Console.WriteLine("Intervalo (75,100]");
             }
-
-            Console.WriteLine("Total: R$ " + total.ToString("F2", CultureInfo.InvariantCulture));
         }
     }
 }
 
-// Com base na tabela, escreva um programa que leia o código de um item e a quantidade deste item.
-// A seguir, calcule e mostre o valor da conta a pagar
+// Você deve fazer um programa que leia um valor qualquer e apresente uma mensagem dizendo em qual dos
+// seguintes intervalos([0,25], (25,50], (50, 75], (75, 100]) este valor se encontra.
+// Obviamente se o valor não estiver em nenhum destes intervalos, deverá ser impressa a mensagem “Fora de intervalo”.
