@@ -4,7 +4,19 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int Number = int.Parse(Console.ReadLine());
+
+            if (Number < 0 )
+            {
+                Console.WriteLine("Negativo");
+            }
+            else
+            {
+                Console.WriteLine("Não é negativo");
+            }
         }
     }
 }
+
+// Fazer um programa para ler um número inteiro,
+// e depois dizer se este número é negativo ou não.
