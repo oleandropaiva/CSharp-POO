@@ -1,4 +1,5 @@
-﻿using System.Runtime.Intrinsics.Arm;
+﻿using System.Globalization;
+using System.Runtime.Intrinsics.Arm;
 
 namespace ExIfAndElse
 {
@@ -7,24 +8,35 @@ namespace ExIfAndElse
         static void Main(string[] args)
         {
             string[] valores = Console.ReadLine().Split(' ');
-            int horaInicial = int.Parse(valores[0]);
-            int horaFinal = int.Parse(valores[1]);
+            int codigo = int.Parse(valores[0]);
+            int quantidade = int.Parse(valores[1]);
 
-            int duracao;
-                if (horaInicial < horaFinal)
+            double total;
+                if (codigo == 1)
             {
-                duracao = horaFinal - horaInicial;
+                total = quantidade * 4.0;
+            }
+                else if (codigo == 2)
+            {
+                total = quantidade * 4.5;
+            }
+                else if (codigo == 3)
+            {
+                total = quantidade * 5.0;
+            }
+                else if (codigo == 4)
+            {
+                total = quantidade * 2.0;
             }
                 else
             {
-                duracao = 24 - horaInicial + horaFinal;
+                total = quantidade * 1.5;
             }
 
-                Console.WriteLine("O JOGO DUROU " + duracao + " HORA(S)");
+            Console.WriteLine("Total: R$ " + total.ToString("F2", CultureInfo.InvariantCulture));
         }
     }
 }
 
-// Leia a hora inicial e a hora final de um jogo.
-// A seguir calcule a duração do jogo, sabendo que ele pode começar em um dia e terminar em outro,
-// tendo uma duração mínima de 1 hora e máxima de 24 horas.
+// Com base na tabela, escreva um programa que leia o código de um item e a quantidade deste item.
+// A seguir, calcule e mostre o valor da conta a pagar
