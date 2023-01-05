@@ -5,15 +5,17 @@
         static void Main(string[] args)
                         
         {
-            int x = 10;
+            Console.WriteLine("Entre com um número inteiro: ");
+            int x = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Bom dia!");
-
-            if (x > 5) {
-                Console.WriteLine("Boa tarde!");
+            if (x % 2 == 0)
+            {
+                Console.WriteLine("Par!");
             }
-
-            Console.WriteLine("Boa noite!");
+            else
+            {
+                Console.WriteLine("Impar!");
+            }
         }
     }
 }
