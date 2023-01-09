@@ -1,0 +1,15 @@
+C:\projects\CSharp-POO\WhileStructure\bin\Debug\net6.0\WhileStructure.exe
+C:\projects\CSharp-POO\WhileStructure\bin\Debug\net6.0\WhileStructure.deps.json
+C:\projects\CSharp-POO\WhileStructure\bin\Debug\net6.0\WhileStructure.runtimeconfig.json
+C:\projects\CSharp-POO\WhileStructure\bin\Debug\net6.0\WhileStructure.dll
+C:\projects\CSharp-POO\WhileStructure\bin\Debug\net6.0\WhileStructure.pdb
+C:\projects\CSharp-POO\WhileStructure\obj\Debug\net6.0\WhileStructure.csproj.AssemblyReference.cache
+C:\projects\CSharp-POO\WhileStructure\obj\Debug\net6.0\WhileStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\CSharp-POO\WhileStructure\obj\Debug\net6.0\WhileStructure.AssemblyInfoInputs.cache
+C:\projects\CSharp-POO\WhileStructure\obj\Debug\net6.0\WhileStructure.AssemblyInfo.cs
+C:\projects\CSharp-POO\WhileStructure\obj\Debug\net6.0\WhileStructure.csproj.CoreCompileInputs.cache
+C:\projects\CSharp-POO\WhileStructure\obj\Debug\net6.0\WhileStructure.dll
+C:\projects\CSharp-POO\WhileStructure\obj\Debug\net6.0\refint\WhileStructure.dll
+C:\projects\CSharp-POO\WhileStructure\obj\Debug\net6.0\WhileStructure.pdb
+C:\projects\CSharp-POO\WhileStructure\obj\Debug\net6.0\WhileStructure.genruntimeconfig.cache
+C:\projects\CSharp-POO\WhileStructure\obj\Debug\net6.0\ref\WhileStructure.dll
