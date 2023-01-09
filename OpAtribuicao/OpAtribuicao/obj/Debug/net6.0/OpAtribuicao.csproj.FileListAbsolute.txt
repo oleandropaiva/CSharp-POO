@@ -1,0 +1,15 @@
+C:\projects\CSharp-POO\OpAtribuicao\OpAtribuicao\bin\Debug\net6.0\OpAtribuicao.exe
+C:\projects\CSharp-POO\OpAtribuicao\OpAtribuicao\bin\Debug\net6.0\OpAtribuicao.deps.json
+C:\projects\CSharp-POO\OpAtribuicao\OpAtribuicao\bin\Debug\net6.0\OpAtribuicao.runtimeconfig.json
+C:\projects\CSharp-POO\OpAtribuicao\OpAtribuicao\bin\Debug\net6.0\OpAtribuicao.dll
+C:\projects\CSharp-POO\OpAtribuicao\OpAtribuicao\bin\Debug\net6.0\OpAtribuicao.pdb
+C:\projects\CSharp-POO\OpAtribuicao\OpAtribuicao\obj\Debug\net6.0\OpAtribuicao.csproj.AssemblyReference.cache
+C:\projects\CSharp-POO\OpAtribuicao\OpAtribuicao\obj\Debug\net6.0\OpAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\CSharp-POO\OpAtribuicao\OpAtribuicao\obj\Debug\net6.0\OpAtribuicao.AssemblyInfoInputs.cache
+C:\projects\CSharp-POO\OpAtribuicao\OpAtribuicao\obj\Debug\net6.0\OpAtribuicao.AssemblyInfo.cs
+C:\projects\CSharp-POO\OpAtribuicao\OpAtribuicao\obj\Debug\net6.0\OpAtribuicao.csproj.CoreCompileInputs.cache
+C:\projects\CSharp-POO\OpAtribuicao\OpAtribuicao\obj\Debug\net6.0\OpAtribuicao.dll
+C:\projects\CSharp-POO\OpAtribuicao\OpAtribuicao\obj\Debug\net6.0\refint\OpAtribuicao.dll
+C:\projects\CSharp-POO\OpAtribuicao\OpAtribuicao\obj\Debug\net6.0\OpAtribuicao.pdb
+C:\projects\CSharp-POO\OpAtribuicao\OpAtribuicao\obj\Debug\net6.0\OpAtribuicao.genruntimeconfig.cache
+C:\projects\CSharp-POO\OpAtribuicao\OpAtribuicao\obj\Debug\net6.0\ref\OpAtribuicao.dll

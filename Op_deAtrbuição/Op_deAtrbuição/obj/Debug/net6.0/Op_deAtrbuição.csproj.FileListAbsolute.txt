@@ -1,0 +1,15 @@
+C:\projects\CSharp-POO\Op_deAtrbuição\Op_deAtrbuição\bin\Debug\net6.0\Op_deAtrbuição.exe
+C:\projects\CSharp-POO\Op_deAtrbuição\Op_deAtrbuição\bin\Debug\net6.0\Op_deAtrbuição.deps.json
+C:\projects\CSharp-POO\Op_deAtrbuição\Op_deAtrbuição\bin\Debug\net6.0\Op_deAtrbuição.runtimeconfig.json
+C:\projects\CSharp-POO\Op_deAtrbuição\Op_deAtrbuição\bin\Debug\net6.0\Op_deAtrbuição.dll
+C:\projects\CSharp-POO\Op_deAtrbuição\Op_deAtrbuição\bin\Debug\net6.0\Op_deAtrbuição.pdb
+C:\projects\CSharp-POO\Op_deAtrbuição\Op_deAtrbuição\obj\Debug\net6.0\Op_deAtrbuição.csproj.AssemblyReference.cache
+C:\projects\CSharp-POO\Op_deAtrbuição\Op_deAtrbuição\obj\Debug\net6.0\Op_deAtrbuição.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\CSharp-POO\Op_deAtrbuição\Op_deAtrbuição\obj\Debug\net6.0\Op_deAtrbuição.AssemblyInfoInputs.cache
+C:\projects\CSharp-POO\Op_deAtrbuição\Op_deAtrbuição\obj\Debug\net6.0\Op_deAtrbuição.AssemblyInfo.cs
+C:\projects\CSharp-POO\Op_deAtrbuição\Op_deAtrbuição\obj\Debug\net6.0\Op_deAtrbuição.csproj.CoreCompileInputs.cache
+C:\projects\CSharp-POO\Op_deAtrbuição\Op_deAtrbuição\obj\Debug\net6.0\Op_deAtrbuição.dll
+C:\projects\CSharp-POO\Op_deAtrbuição\Op_deAtrbuição\obj\Debug\net6.0\refint\Op_deAtrbuição.dll
+C:\projects\CSharp-POO\Op_deAtrbuição\Op_deAtrbuição\obj\Debug\net6.0\Op_deAtrbuição.pdb
+C:\projects\CSharp-POO\Op_deAtrbuição\Op_deAtrbuição\obj\Debug\net6.0\Op_deAtrbuição.genruntimeconfig.cache
+C:\projects\CSharp-POO\Op_deAtrbuição\Op_deAtrbuição\obj\Debug\net6.0\ref\Op_deAtrbuição.dll

@@ -1,0 +1,15 @@
+C:\projects\CSharp-POO\aula2\aula2\bin\Debug\net6.0\aula2.exe
+C:\projects\CSharp-POO\aula2\aula2\bin\Debug\net6.0\aula2.deps.json
+C:\projects\CSharp-POO\aula2\aula2\bin\Debug\net6.0\aula2.runtimeconfig.json
+C:\projects\CSharp-POO\aula2\aula2\bin\Debug\net6.0\aula2.dll
+C:\projects\CSharp-POO\aula2\aula2\bin\Debug\net6.0\aula2.pdb
+C:\projects\CSharp-POO\aula2\aula2\obj\Debug\net6.0\aula2.csproj.AssemblyReference.cache
+C:\projects\CSharp-POO\aula2\aula2\obj\Debug\net6.0\aula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\CSharp-POO\aula2\aula2\obj\Debug\net6.0\aula2.AssemblyInfoInputs.cache
+C:\projects\CSharp-POO\aula2\aula2\obj\Debug\net6.0\aula2.AssemblyInfo.cs
+C:\projects\CSharp-POO\aula2\aula2\obj\Debug\net6.0\aula2.csproj.CoreCompileInputs.cache
+C:\projects\CSharp-POO\aula2\aula2\obj\Debug\net6.0\aula2.dll
+C:\projects\CSharp-POO\aula2\aula2\obj\Debug\net6.0\refint\aula2.dll
+C:\projects\CSharp-POO\aula2\aula2\obj\Debug\net6.0\aula2.pdb
+C:\projects\CSharp-POO\aula2\aula2\obj\Debug\net6.0\aula2.genruntimeconfig.cache
+C:\projects\CSharp-POO\aula2\aula2\obj\Debug\net6.0\ref\aula2.dll

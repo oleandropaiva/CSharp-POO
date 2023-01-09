@@ -1,0 +1,15 @@
+C:\projects\CSharp-POO\ExIfAndElse\bin\Debug\net6.0\ExIfAndElse.exe
+C:\projects\CSharp-POO\ExIfAndElse\bin\Debug\net6.0\ExIfAndElse.deps.json
+C:\projects\CSharp-POO\ExIfAndElse\bin\Debug\net6.0\ExIfAndElse.runtimeconfig.json
+C:\projects\CSharp-POO\ExIfAndElse\bin\Debug\net6.0\ExIfAndElse.dll
+C:\projects\CSharp-POO\ExIfAndElse\bin\Debug\net6.0\ExIfAndElse.pdb
+C:\projects\CSharp-POO\ExIfAndElse\obj\Debug\net6.0\ExIfAndElse.csproj.AssemblyReference.cache
+C:\projects\CSharp-POO\ExIfAndElse\obj\Debug\net6.0\ExIfAndElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\CSharp-POO\ExIfAndElse\obj\Debug\net6.0\ExIfAndElse.AssemblyInfoInputs.cache
+C:\projects\CSharp-POO\ExIfAndElse\obj\Debug\net6.0\ExIfAndElse.AssemblyInfo.cs
+C:\projects\CSharp-POO\ExIfAndElse\obj\Debug\net6.0\ExIfAndElse.csproj.CoreCompileInputs.cache
+C:\projects\CSharp-POO\ExIfAndElse\obj\Debug\net6.0\ExIfAndElse.dll
+C:\projects\CSharp-POO\ExIfAndElse\obj\Debug\net6.0\refint\ExIfAndElse.dll
+C:\projects\CSharp-POO\ExIfAndElse\obj\Debug\net6.0\ExIfAndElse.pdb
+C:\projects\CSharp-POO\ExIfAndElse\obj\Debug\net6.0\ExIfAndElse.genruntimeconfig.cache
+C:\projects\CSharp-POO\ExIfAndElse\obj\Debug\net6.0\ref\ExIfAndElse.dll

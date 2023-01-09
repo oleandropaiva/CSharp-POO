@@ -1,0 +1,8 @@
+C:\projects\CSharp-POO\EstruturaFuncoes\bin\Debug\EstruturaFuncoes.exe.config
+C:\projects\CSharp-POO\EstruturaFuncoes\bin\Debug\EstruturaFuncoes.exe
+C:\projects\CSharp-POO\EstruturaFuncoes\bin\Debug\EstruturaFuncoes.pdb
+C:\projects\CSharp-POO\EstruturaFuncoes\obj\Debug\EstruturaFuncoes.csproj.AssemblyReference.cache
+C:\projects\CSharp-POO\EstruturaFuncoes\obj\Debug\EstruturaFuncoes.csproj.SuggestedBindingRedirects.cache
+C:\projects\CSharp-POO\EstruturaFuncoes\obj\Debug\EstruturaFuncoes.csproj.CoreCompileInputs.cache
+C:\projects\CSharp-POO\EstruturaFuncoes\obj\Debug\EstruturaFuncoes.exe
+C:\projects\CSharp-POO\EstruturaFuncoes\obj\Debug\EstruturaFuncoes.pdb

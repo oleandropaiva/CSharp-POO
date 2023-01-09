@@ -1,0 +1,15 @@
+C:\projects\CSharp-POO\placeholders\PlaceholdersConcat\bin\Debug\net6.0\PlaceholdersConcat.exe
+C:\projects\CSharp-POO\placeholders\PlaceholdersConcat\bin\Debug\net6.0\PlaceholdersConcat.deps.json
+C:\projects\CSharp-POO\placeholders\PlaceholdersConcat\bin\Debug\net6.0\PlaceholdersConcat.runtimeconfig.json
+C:\projects\CSharp-POO\placeholders\PlaceholdersConcat\bin\Debug\net6.0\PlaceholdersConcat.dll
+C:\projects\CSharp-POO\placeholders\PlaceholdersConcat\bin\Debug\net6.0\PlaceholdersConcat.pdb
+C:\projects\CSharp-POO\placeholders\PlaceholdersConcat\obj\Debug\net6.0\PlaceholdersConcat.csproj.AssemblyReference.cache
+C:\projects\CSharp-POO\placeholders\PlaceholdersConcat\obj\Debug\net6.0\PlaceholdersConcat.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\CSharp-POO\placeholders\PlaceholdersConcat\obj\Debug\net6.0\PlaceholdersConcat.AssemblyInfoInputs.cache
+C:\projects\CSharp-POO\placeholders\PlaceholdersConcat\obj\Debug\net6.0\PlaceholdersConcat.AssemblyInfo.cs
+C:\projects\CSharp-POO\placeholders\PlaceholdersConcat\obj\Debug\net6.0\PlaceholdersConcat.csproj.CoreCompileInputs.cache
+C:\projects\CSharp-POO\placeholders\PlaceholdersConcat\obj\Debug\net6.0\PlaceholdersConcat.dll
+C:\projects\CSharp-POO\placeholders\PlaceholdersConcat\obj\Debug\net6.0\refint\PlaceholdersConcat.dll
+C:\projects\CSharp-POO\placeholders\PlaceholdersConcat\obj\Debug\net6.0\PlaceholdersConcat.pdb
+C:\projects\CSharp-POO\placeholders\PlaceholdersConcat\obj\Debug\net6.0\PlaceholdersConcat.genruntimeconfig.cache
+C:\projects\CSharp-POO\placeholders\PlaceholdersConcat\obj\Debug\net6.0\ref\PlaceholdersConcat.dll
