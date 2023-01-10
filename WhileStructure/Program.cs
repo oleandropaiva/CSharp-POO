@@ -18,6 +18,7 @@ namespace WhileStructure
                 x = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             }
 
+            Console.WriteLine("Número negativo!");
             
         }
     }
