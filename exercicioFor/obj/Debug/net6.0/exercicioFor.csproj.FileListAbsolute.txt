@@ -1,0 +1,15 @@
+C:\projects\CSharp-POO\exercicioFor\bin\Debug\net6.0\exercicioFor.exe
+C:\projects\CSharp-POO\exercicioFor\bin\Debug\net6.0\exercicioFor.deps.json
+C:\projects\CSharp-POO\exercicioFor\bin\Debug\net6.0\exercicioFor.runtimeconfig.json
+C:\projects\CSharp-POO\exercicioFor\bin\Debug\net6.0\exercicioFor.dll
+C:\projects\CSharp-POO\exercicioFor\bin\Debug\net6.0\exercicioFor.pdb
+C:\projects\CSharp-POO\exercicioFor\obj\Debug\net6.0\exercicioFor.csproj.AssemblyReference.cache
+C:\projects\CSharp-POO\exercicioFor\obj\Debug\net6.0\exercicioFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\CSharp-POO\exercicioFor\obj\Debug\net6.0\exercicioFor.AssemblyInfoInputs.cache
+C:\projects\CSharp-POO\exercicioFor\obj\Debug\net6.0\exercicioFor.AssemblyInfo.cs
+C:\projects\CSharp-POO\exercicioFor\obj\Debug\net6.0\exercicioFor.csproj.CoreCompileInputs.cache
+C:\projects\CSharp-POO\exercicioFor\obj\Debug\net6.0\exercicioFor.dll
+C:\projects\CSharp-POO\exercicioFor\obj\Debug\net6.0\refint\exercicioFor.dll
+C:\projects\CSharp-POO\exercicioFor\obj\Debug\net6.0\exercicioFor.pdb
+C:\projects\CSharp-POO\exercicioFor\obj\Debug\net6.0\exercicioFor.genruntimeconfig.cache
+C:\projects\CSharp-POO\exercicioFor\obj\Debug\net6.0\ref\exercicioFor.dll
