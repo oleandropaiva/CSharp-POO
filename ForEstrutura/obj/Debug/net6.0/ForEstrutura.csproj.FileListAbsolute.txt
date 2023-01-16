@@ -1,0 +1,15 @@
+C:\projects\CSharp-POO\ForEstrutura\bin\Debug\net6.0\ForEstrutura.exe
+C:\projects\CSharp-POO\ForEstrutura\bin\Debug\net6.0\ForEstrutura.deps.json
+C:\projects\CSharp-POO\ForEstrutura\bin\Debug\net6.0\ForEstrutura.runtimeconfig.json
+C:\projects\CSharp-POO\ForEstrutura\bin\Debug\net6.0\ForEstrutura.dll
+C:\projects\CSharp-POO\ForEstrutura\bin\Debug\net6.0\ForEstrutura.pdb
+C:\projects\CSharp-POO\ForEstrutura\obj\Debug\net6.0\ForEstrutura.csproj.AssemblyReference.cache
+C:\projects\CSharp-POO\ForEstrutura\obj\Debug\net6.0\ForEstrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\CSharp-POO\ForEstrutura\obj\Debug\net6.0\ForEstrutura.AssemblyInfoInputs.cache
+C:\projects\CSharp-POO\ForEstrutura\obj\Debug\net6.0\ForEstrutura.AssemblyInfo.cs
+C:\projects\CSharp-POO\ForEstrutura\obj\Debug\net6.0\ForEstrutura.csproj.CoreCompileInputs.cache
+C:\projects\CSharp-POO\ForEstrutura\obj\Debug\net6.0\ForEstrutura.dll
+C:\projects\CSharp-POO\ForEstrutura\obj\Debug\net6.0\refint\ForEstrutura.dll
+C:\projects\CSharp-POO\ForEstrutura\obj\Debug\net6.0\ForEstrutura.pdb
+C:\projects\CSharp-POO\ForEstrutura\obj\Debug\net6.0\ForEstrutura.genruntimeconfig.cache
+C:\projects\CSharp-POO\ForEstrutura\obj\Debug\net6.0\ref\ForEstrutura.dll
