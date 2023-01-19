@@ -1,0 +1,5 @@
+C:\projects\CSharp-POO\Ecercicio1POO\obj\Debug\net6.0\Ecercicio1POO.csproj.AssemblyReference.cache
+C:\projects\CSharp-POO\Ecercicio1POO\obj\Debug\net6.0\Ecercicio1POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\CSharp-POO\Ecercicio1POO\obj\Debug\net6.0\Ecercicio1POO.AssemblyInfoInputs.cache
+C:\projects\CSharp-POO\Ecercicio1POO\obj\Debug\net6.0\Ecercicio1POO.AssemblyInfo.cs
+C:\projects\CSharp-POO\Ecercicio1POO\obj\Debug\net6.0\Ecercicio1POO.csproj.CoreCompileInputs.cache
