@@ -3,3 +3,13 @@ C:\projects\CSharp-POO\Ecercicio1POO\obj\Debug\net6.0\Ecercicio1POO.GeneratedMSB
 C:\projects\CSharp-POO\Ecercicio1POO\obj\Debug\net6.0\Ecercicio1POO.AssemblyInfoInputs.cache
 C:\projects\CSharp-POO\Ecercicio1POO\obj\Debug\net6.0\Ecercicio1POO.AssemblyInfo.cs
 C:\projects\CSharp-POO\Ecercicio1POO\obj\Debug\net6.0\Ecercicio1POO.csproj.CoreCompileInputs.cache
+C:\projects\CSharp-POO\Ecercicio1POO\bin\Debug\net6.0\Ecercicio1POO.exe
+C:\projects\CSharp-POO\Ecercicio1POO\bin\Debug\net6.0\Ecercicio1POO.deps.json
+C:\projects\CSharp-POO\Ecercicio1POO\bin\Debug\net6.0\Ecercicio1POO.runtimeconfig.json
+C:\projects\CSharp-POO\Ecercicio1POO\bin\Debug\net6.0\Ecercicio1POO.dll
+C:\projects\CSharp-POO\Ecercicio1POO\bin\Debug\net6.0\Ecercicio1POO.pdb
+C:\projects\CSharp-POO\Ecercicio1POO\obj\Debug\net6.0\Ecercicio1POO.dll
+C:\projects\CSharp-POO\Ecercicio1POO\obj\Debug\net6.0\refint\Ecercicio1POO.dll
+C:\projects\CSharp-POO\Ecercicio1POO\obj\Debug\net6.0\Ecercicio1POO.pdb
+C:\projects\CSharp-POO\Ecercicio1POO\obj\Debug\net6.0\Ecercicio1POO.genruntimeconfig.cache
+C:\projects\CSharp-POO\Ecercicio1POO\obj\Debug\net6.0\ref\Ecercicio1POO.dll
